@@ -19,7 +19,7 @@
 
 4. Перейти в директорию проекта /target и запустить приложение:  
 `cd target`  
-`java -jar DigitalChief.jar`  
+`java -jar DigitalChief-0.0.1-SNAPSHOT.jar`  
 
 После выполнения данных шагов приложение будет успешно запущенно.  
 Перейдя по адресу `http://localhost:8080/swagger-ui/index.html` у вас будет возможность обратиться ко всем возможным endpoints приложения.
